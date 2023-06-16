@@ -22,12 +22,3 @@ The program applies various machine learning techniques to train models on the d
 
 ## Dataset
 The breast cancer dataset (`data.csv`) used in this program contains information about various features extracted from breast mass images, including texture, area, smoothness, and more. It also provides the corresponding class labels indicating whether a mass is malignant (1) or benign (0).
-
-## License
-Include information about the license of your program, if applicable.
-
-## Author
-Include your name or the name of the author(s) of the program.
-
-## Contact
-For any questions or support, feel free to reach out to [your-email@example.com](mailto:your-email@example.com).
